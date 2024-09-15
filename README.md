@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 ### My Status ###
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=BaranaNadil&show_icons=true&theme=transparent" />
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=RavinduRukshan&show_icons=true&theme=transparent" />
 
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaranaNadil&layout=compact" />
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduRukshan&layout=compact" />
